@@ -14,4 +14,6 @@ Create Hello world Qt program
 - Project overview
   - hello_world.pro 是项目管理文件
   - *.ui 样式文件由 XML 语言描述组成, 可以跳转到设计界面
+- Run hellp world
+  `cd build-hello_world-Desktop_Qt_5_12_9_GCC_64bit-Debug && ./hello_world`
 
