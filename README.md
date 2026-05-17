@@ -1,8 +1,9 @@
-example-cpp
+example-qt
 =================================
 # Introduction
 Example code for Linux Qt.
-- app/hello_world       : First Qt program.
+- app/         : Qt program.
+- embedded_qt_tutorial  : Qt tutorial from IMX6ULL EVA board.
 
 # Hello world
 Create Hello world Qt program
